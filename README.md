@@ -1,5 +1,13 @@
 # Todo List Application
 
+# View 
+- link:https://taskonic.netlify.app
+
+## Screenshot
+![img](asset/1,png)
+![img2](asset/2.png)
+
+
 A modern todo list application built with:
 
 - React
